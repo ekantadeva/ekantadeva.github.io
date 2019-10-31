@@ -1,3 +1,5 @@
 # ekantadeva.github.io
 
-asdasdasd
+#Display Page
+
+A static page is enough
